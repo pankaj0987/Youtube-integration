@@ -1,0 +1,14 @@
+.video_list-container {
+    display: grid;
+    grid-template-columns: 368px 368px 368px;
+    padding: 20px 60px;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.video_item {
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 308px;
+    text-decoration: none;
+    color: unset;
+}
